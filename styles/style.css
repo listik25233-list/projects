@@ -24,7 +24,7 @@
 }
 
 .subtitle-promo {
-    padding: 120px 72px 21px;
+    padding: 127px 72px 21px;
     font-size: 11px;
     font-family: Roboto;
     font-weight: 400;
@@ -54,3 +54,91 @@
     color: #703412;
     margin-left: 72px;
 }
+
+.cards {
+    flex-wrap: wrap;
+    display: flex;
+    padding: 194px 72px 122px 72px ;
+    justify-content: space-between;
+    row-gap: 66px;
+}
+
+.cards-features {
+    border-radius: 8px;
+    box-shadow: 0 8px 30px 0 rgba(0, 0, 0, 0.12);
+}
+
+.title-cards {
+    width: 283px;
+    color: #703412;
+    font-weight: 300;
+    font-family: Roboto;
+    font-size: 24px;
+    line-height: 28.8px;
+    padding-top: 32px;
+}
+
+.text-cards {
+    color: #703412;
+    font-weight: 200;
+    font-family: Roboto;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.footer-section{
+    background-color: #084935;
+    width: 100%;
+}
+
+.subtitle-footer {
+    padding-top: 120px;
+    padding-left: 72px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 18px;
+    letter-spacing: 1.6px;
+    padding-bottom: 24px;
+}
+
+.promo-footer {
+    padding-left: 72px;
+    color: #FFF;
+    font-weight: 300;
+    font-family: Roboto;
+    font-size: 30px;
+    line-height: 38.4px;
+}
+
+.link-promo {
+    font-family: Roboto;
+    font-size: 29px;
+    font-weight: 300;
+    line-height: 38.4px;
+    color:rgba(255, 255, 255, 0.72);
+    text-decoration: none;
+}
+
+.block-information {
+    display: grid;
+    padding-left: 72px;
+    padding-top: 110px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.links-footer {
+    grid-column: 1;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 24px;
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.72);
+}
+
+.
