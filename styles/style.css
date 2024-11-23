@@ -1,0 +1,56 @@
+.content-section {
+    background-color: #FEFBF1;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.header {
+    padding-top: 7px;
+    display: flex;
+    height: 61px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.link-header {
+    text-decoration: none;
+    color:#703412;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 500;
+}
+
+.subtitle-promo {
+    padding: 120px 72px 21px;
+    font-size: 11px;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: #703412;
+}
+
+.title-promo {
+    width:848px;
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 88px;
+    color: #703412;
+    margin-left: 72px;
+    padding-bottom: 116px;
+}
+
+.about-patterns {
+    width: 571px;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 41.6px;
+    color: #703412;
+    margin-left: 72px;
+}
