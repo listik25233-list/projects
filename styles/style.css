@@ -95,7 +95,7 @@
 }
 
 .subtitle-footer {
-    padding-top: 120px;
+    padding-top: 115px;
     padding-left: 72px;
     color: #FFF;
     font-family: Roboto;
@@ -133,20 +133,20 @@
 .other-sites {
     display: flex;
     flex-direction: column;
-    padding-right: 169px;
+    padding-right: 175px;
     padding-bottom: 81px;
 }
 
 .career {
     display: flex;
     flex-direction: column;
-    padding-right: 207px;
+    padding-right: 210px;
 }
 
 .social-media {
     display: flex;
     flex-direction: column;
-    padding-right: 189px;
+    padding-right: 195px;
 }
 
 .links-footer {
